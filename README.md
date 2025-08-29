@@ -64,9 +64,12 @@ Passionate about solving complex problems and collaborating with innovative mind
   <a href="https://www.linkedin.com/in/ali-asiri-b85038206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://alasiri-ali.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-25D366?style=plastic&logo=About.me&logoColor=white" />
-</a>
+  <a href="https://x.com/Ali_M_Asiri" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white" />
+  </a>
+  <a href="https://alasiri-ali.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-25D366?style=plastic&logo=About.me&logoColor=white" />
+  </a>
   <a href="mailto:aliasiri.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" />
   </a>
